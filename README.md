@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning in Frontend 
 - 👯 I’m looking to collaborate on Frontend Developer
 - 📫 How to reach me: ganeshunakal45@gmail.com
 <!--
