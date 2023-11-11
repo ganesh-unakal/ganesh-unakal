@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning in Frontend 
-- 👯 I’m looking to collaborate on Frontend Developer
+- 🌱 I’m currently completed Mern stack developer. 
+- 👯 I’m looking to collaborate on Mern stack developer
 - 📫 How to reach me: ganeshunakal45@gmail.com
 <!--
 **ganesh-unakal/ganesh-unakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
