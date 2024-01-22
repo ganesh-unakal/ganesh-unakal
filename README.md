@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently completed Mern stack developer. 
+- 🌱 I’m completed Mern stack developer. 
 - 👯 I’m looking to collaborate on Mern stack developer
 - 📫 How to reach me: ganeshunakal45@gmail.com
 <!--
